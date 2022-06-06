@@ -1,3 +1,10 @@
+## Eu sou Felipe Xavier Braz
+- Eu moro em São Paulo😎🌅 <br> 
+- Eu sou em formado em analise e desenvolvimento de sistemas💻 <br>
+- Sou Desenvolvedor Front-end💻 <br>
+- Estou apredendo sobre Javascript e Typescript e testes🚀
+
+
 <h1 align="center" >Sobre mim</h1>
  <p>Olá, meu nome é Felipe Xavier Braz e tenho 26 anos. Sou formado em analise e desenvolvimento de sistemas na UNIVERSIDADE CRUZEIRO DO SUL - UNICSUL. Tenho facilidade em aprender e repassar meus conhecimento. Sou familiarizado com trabalho em equipe e tenho facilidade em resolver problemas. Sou uma pessoa tranquila no geral e sempre disposto a aprender mais com pessoas experientes.<p/> 
  <h1 align="center" >Objetivo</h1>
@@ -33,6 +40,7 @@ Banco de dados MySql, Sql server.<p/>
    <a href = "fellippex.xavier@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://felipexavier26.github.io/web/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.sv" target="_blank"></a> 
    
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
  
 </div>
