@@ -1,6 +1,6 @@
 ## Eu sou Felipe Xavier Braz
 - Eu moro em São Paulo😎🌅 <br> 
-- Eu sou em formado em analise e desenvolvimento de sistemas💻 <br>
+- Eu sou  formado em analise e desenvolvimento de sistemas💻 <br>
 - Sou Desenvolvedor Front-end💻 <br>
 - Estou apredendo sobre Javascript e Typescript e testes🚀
 
