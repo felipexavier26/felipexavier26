@@ -4,7 +4,7 @@
 - Sou Desenvolvedor Front-end💻 <br>
 - Estou apredendo sobre Javascript e Typescript e testes🚀
 
-https://user-images.githubusercontent.com/49988118/149845826-255a742b-f946-4c1a-8932-eb622e0ae4e5.gif Um pouco mais sobre mim: <br>
+ Um pouco mais sobre mim: <br>
 Curto experimentar novas ferramentas/tecnologias, sempre disposto a aprender algo novo, seja sobre aquilo que já tenho domínio
  ou sobre algo que ainda não conheço 🤙🏻.
 
