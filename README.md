@@ -4,6 +4,10 @@
 - Sou Desenvolvedor Front-end💻 <br>
 - Estou apredendo sobre Javascript e Typescript e testes🚀
 
+-  Um pouco mais sobre mim:
+   Curto experimentar novas ferramentas/tecnologias, sempre disposto a aprender algo novo, seja sobre aquilo que já tenho domínio
+   ou sobre algo que ainda não conheço 🤙🏻.
+
 
 <h1 align="center" >Sobre mim</h1>
  <p>Olá, meu nome é Felipe Xavier Braz e tenho 27 anos. Sou formado em analise e desenvolvimento de sistemas na UNIVERSIDADE CRUZEIRO DO SUL - UNICSUL. Tenho facilidade em aprender e repassar meus conhecimento. Sou familiarizado com trabalho em equipe e tenho facilidade em resolver problemas. Sou uma pessoa tranquila no geral e sempre disposto a aprender mais com pessoas experientes.<p/> 
