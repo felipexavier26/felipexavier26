@@ -6,7 +6,7 @@ Olá <a target="_blank"   rel="noopener noreferrer nofollow" href="https://user-
 Curto experimentar novas ferramentas/tecnologias, sempre disposto a aprender algo novo, seja sobre aquilo que já tenho domínio
  ou sobre algo que ainda não conheço 🤙🏻.
 
- <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/49988118/149845826-255a742b-f946-4c1a-8932-eb622e0ae4e5.gif" data-target="animated-image.originalLink"><img align="top" src="https://user-images.githubusercontent.com/49988118/149845826-255a742b-f946-4c1a-8932-eb622e0ae4e5.gif" style="width: 27px; display: inline-block;" data-target="animated-image.originalImage"></a>
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/49988118/149845826-255a742b-f946-4c1a-8932-eb622e0ae4e5.gif" data-target="animated-image.originalLink"><img align="top" src="https://user-images.githubusercontent.com/49988118/149845826-255a742b-f946-4c1a-8932-eb622e0ae4e5.gif" style="width: 27px; display: inline-block;" data-target="animated-image.originalImage"></a> <b> Um pouco mais sobre mim: </b>
 
 
 
