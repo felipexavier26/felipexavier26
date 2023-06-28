@@ -1,4 +1,4 @@
-
+Olá <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/49988118/149844758-2e69df39-cc50-48d6-8b69-4506a540a796.gif" data-target="animated-image.originalLink"><img align="top" src="https://user-images.githubusercontent.com/49988118/149844758-2e69df39-cc50-48d6-8b69-4506a540a796.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
   Me chamo <em> <b>Felipe xavier Braz</b> </em>  sou <em><b> Análise e Desenvolvimento de Sistemas </b> </em> e sou apaixonado por aquilo que faço, buscando sempre dar o meu melhor. Tenho conhecimento e práticas em desenvolvimento Web tanto na parte do <code>front-end</code> que é a "área" na qual eu mais me identifico.
 
