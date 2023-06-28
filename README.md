@@ -29,7 +29,12 @@ Banco de dados MySql, Sql server.<p/>
   <img align="center" alt="felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="felipe-mysql" height="30" width="40" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 
- <img align="center" alt="felipe-mysql"  src="https://camo.githubusercontent.com/848defb760c0adff4362c04283f254f633ea8eff177c1640b209429d0e3d7627/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333333333f7374796c653d666c6174266c6f676f3d6a617661736372697074">
+   <img align="center" alt="felipe-mysql"  src="https://camo.githubusercontent.com/848defb760c0adff4362c04283f254f633ea8eff177c1640b209429d0e3d7627/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333333333f7374796c653d666c6174266c6f676f3d6a617661736372697074">
+  </div>
+
+   <img align="center"  src="https://camo.githubusercontent.com/b1720e127ee280daab63f84b508b29abe2540b02f5f57675765ad07da1315241/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3333333333333f7374796c653d666c6174266c6f676f3d48544d4c35">
+
+ <img align="center"  src="https://camo.githubusercontent.com/848defb760c0adff4362c04283f254f633ea8eff177c1640b209429d0e3d7627/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333333333f7374796c653d666c6174266c6f676f3d6a617661736372697074">
   </div>
   <br> 
  
