@@ -67,7 +67,6 @@ Ferramentas de Desenvolvimento<br>
   <a href="https://felipexavier26.github.io/web/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.sv" target="_blank"></a> 
 
 
-  //![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
  
