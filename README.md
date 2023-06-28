@@ -4,9 +4,7 @@
 - Sou Desenvolvedor Front-end💻 <br>
 - Estou apredendo sobre Javascript e Typescript e testes🚀
 
--  Um pouco mais sobre mim:
-   Curto experimentar novas ferramentas/tecnologias, sempre disposto a aprender algo novo, seja sobre aquilo que já tenho domínio
-   ou sobre algo que ainda não conheço 🤙🏻.
+
 
 
 <h1 align="center" >Sobre mim</h1>
