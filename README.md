@@ -10,6 +10,49 @@ Olá <a target="_blank"   rel="noopener noreferrer nofollow" href="https://user-
 
 
 
+
+   
+<div align="center">
+  <a href="https://github.com/felipexavier26">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipexavier26&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipexavier26&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+<div style="display: inline_block"><br>
+Aplicações<br>
+   <img align="center"  src="https://camo.githubusercontent.com/b1720e127ee280daab63f84b508b29abe2540b02f5f57675765ad07da1315241/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3333333333333f7374796c653d666c6174266c6f676f3d48544d4c35">
+<img align='center' src="https://camo.githubusercontent.com/c38a05ab57aea563f73ae6b4aad7f556faa734d4077a7b52a2081b41ce27da40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3333333333333f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236">
+ <img align="center"  src="https://camo.githubusercontent.com/848defb760c0adff4362c04283f254f633ea8eff177c1640b209429d0e3d7627/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333333333f7374796c653d666c6174266c6f676f3d6a617661736372697074">
+ <img align="center"  src="https://camo.githubusercontent.com/bd16a09c0ea9b0b7ee8766d187db73f61d5ec35a3c5499119b4d3003c1ee546a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3333333333333f7374796c653d666c6174266c6f676f3d6d7973716c"> 
+  </div>  
+  <br> 
+
+
+  <div style="display: inline_block"><br>
+Utilidades<br>
+   <img align="center"  src="https://camo.githubusercontent.com/ba26db9a2e4c9aebc9713b73f570e0579367bd1bea4196adbb2c229339fdd3bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f73746d616e2d3333333333333f7374796c653d666c6174266c6f676f3d706f73746d616e">
+   <img align='center'   src="https://camo.githubusercontent.com/5ed3f041ebf36a62c0a95fccb7e58a0dfd57c75dfc78aad44e4f1f5af568fda7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41646f626550686f746f73686f702d3333333333333f7374796c653d666c6174266c6f676f3d61646f626570686f746f73686f70">  
+  </div>  
+  <br> 
+
+   <div style="display: inline_block"><br>
+DevOps<br>
+   <img align="center"  src="https://camo.githubusercontent.com/3ea1c940cc08da19f16d17ca0c4704397dac1f12a1bb73f1174ae504c3e80a85/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3333333333333f7374796c653d666c6174266c6f676f3d676974">
+   <img align='center'   src="https://camo.githubusercontent.com/544426317a6c6226b7f6b3367232378ea367aa5001a41da4f302a77f9959909f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333333333f7374796c653d666c6174266c6f676f3d676974687562">  
+  </div>  
+  <br> 
+
+
+<div style="display: inline_block"><br>
+Ferramentas de Desenvolvimento<br>
+   <img align="center"  src="https://camo.githubusercontent.com/2d26e5f7d40bd01c004c6cb658987dc6ab6fe805ca752c9e76d4053fb679dce7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3333333333333f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465">
+   <img align='center'   src="https://camo.githubusercontent.com/747fbc5bf92d88ad6b779864255e0ab7b84faaa4c35917079ed965b15543d6f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4669676d612d3333333333333f7374796c653d666c6174266c6f676f3d6669676d61">  
+  </div>  
+  <br> 
+
+
+
+
 <h1 align="center" >Sobre mim</h1>
  <p>Olá, meu nome é Felipe Xavier Braz e tenho 27 anos. Sou formado em analise e desenvolvimento de sistemas na UNIVERSIDADE CRUZEIRO DO SUL - UNICSUL. Tenho facilidade em aprender e repassar meus conhecimento. Sou familiarizado com trabalho em equipe e tenho facilidade em resolver problemas. Sou uma pessoa tranquila no geral e sempre disposto a aprender mais com pessoas experientes.<p/> 
  <h1 align="center" >Objetivo</h1>
