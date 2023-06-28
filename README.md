@@ -4,6 +4,8 @@
 - Sou Desenvolvedor Front-end💻 <br>
 - Estou apredendo sobre Javascript e Typescript e testes🚀
 
+  Me chamo <em> <b>Felipe xavier Braz</b> </em>  sou <em><b> Análise e Desenvolvimento de Sistemas </b> </em> e sou apaixonado por aquilo que faço, buscando sempre dar o meu melhor. Tenho conhecimento e práticas em desenvolvimento Web tanto na parte do <code>front-end</code> que é a "área" na qual eu mais me identifico.
+
  Um pouco mais sobre mim: <br>
 Curto experimentar novas ferramentas/tecnologias, sempre disposto a aprender algo novo, seja sobre aquilo que já tenho domínio
  ou sobre algo que ainda não conheço 🤙🏻.
