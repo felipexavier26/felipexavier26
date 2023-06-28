@@ -31,6 +31,10 @@ Aplicações<br>
  <img align="center"  src="https://camo.githubusercontent.com/bd16a09c0ea9b0b7ee8766d187db73f61d5ec35a3c5499119b4d3003c1ee546a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3333333333333f7374796c653d666c6174266c6f676f3d6d7973716c"> 
   </div>  
   <br> 
+  
+   Um pouco mais sobre mim:
+   Curto experimentar novas ferramentas/tecnologias, sempre disposto a aprender algo novo, seja sobre aquilo que já tenho domínio
+   ou sobre algo que ainda não conheço 🤙🏻.
 
   <div style="display: inline_block"><br>
 Utilidades<br>
