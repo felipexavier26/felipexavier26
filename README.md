@@ -55,19 +55,6 @@ Ferramentas de Desenvolvimento<br>
 
 
 
-<h1 align="center" >Sobre mim</h1>
- <p>Olá, meu nome é Felipe Xavier Braz e tenho 27 anos. Sou formado em analise e desenvolvimento de sistemas na UNIVERSIDADE CRUZEIRO DO SUL - UNICSUL. Tenho facilidade em aprender e repassar meus conhecimento. Sou familiarizado com trabalho em equipe e tenho facilidade em resolver problemas. Sou uma pessoa tranquila no geral e sempre disposto a aprender mais com pessoas experientes.<p/> 
- <h1 align="center" >Objetivo</h1>
- <p>Atuar como desenvolvedor web, aplicar contribuir com o meu conhecimento ajudando organizações com o intuito de obterem melhores proveitos da da tecnologia e seus recursos.<p/> 
- <h1 align="center" >Habilidades</h1>
- <p>Desenvolvimento frontend web (HTML, CSS3, Javascript), criação de designes totalmente responsivos sem frameworks e utilizando frameworks como Bootstrap.
-Banco de dados MySql, Sql server.<p/> 
-<h1 align="center" >Profissional</h1>
- <p>Ágil e proativo que está sempre em busca de novos conhecimentos e habilidades com capacidade rápida de aprendizado, interessado, dedicado, boa comunicação e facilidade em trabalhar em equipe. Tenho experiência no setor do comercio e conhecimento na área de tecnologia. Atualmente faço alguns cursos para me especializar na área de tecnologia e estou em busca de uma oportunidade nessa área. Desde já agradeço pela atenção.<p/> 
-
- 
-  
-
 
   
 
