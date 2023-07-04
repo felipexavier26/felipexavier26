@@ -54,6 +54,7 @@ Ferramentas de Desenvolvimento<br>
   <br> 
 
   <div style="display: inline_block">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
   <a href="https://github.com/felipexavier26">
   <img height="180em" src="https://github-readme-stats.vercel.app/api? 
     username=felipexavier26&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -61,7 +62,6 @@ Ferramentas de Desenvolvimento<br>
 </div><br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
