@@ -32,9 +32,9 @@ Olá <a target="_blank"   rel="noopener noreferrer nofollow" href="https://user-
 
 
   <div style="display: inline_block"><br>
-Utilidades<br>
+    Utilidades<br>
    <img align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-   <img align='center'   src="https://camo.githubusercontent.com/5ed3f041ebf36a62c0a95fccb7e58a0dfd57c75dfc78aad44e4f1f5af568fda7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41646f626550686f746f73686f702d3333333333333f7374796c653d666c6174266c6f676f3d61646f626570686f746f73686f70">  
+   <img align='center' width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">  
   </div> 
 
   <br> 
