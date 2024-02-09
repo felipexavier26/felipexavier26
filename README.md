@@ -49,7 +49,7 @@ DevOps<br>
 
 <div style="display: inline_block"><br>
 Ferramentas de Desenvolvimento<br>
-   <img align="center"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png">
+   <img align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png">
    <img align='center'   src="https://camo.githubusercontent.com/747fbc5bf92d88ad6b779864255e0ab7b84faaa4c35917079ed965b15543d6f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4669676d612d3333333333333f7374796c653d666c6174266c6f676f3d6669676d61">  
   </div>  
 
