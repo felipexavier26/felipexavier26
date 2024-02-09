@@ -16,7 +16,7 @@ Olá <a target="_blank"   rel="noopener noreferrer nofollow" href="https://user-
   
 <div style="display: inline_block"><br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/49988118/149845918-84b8c1d8-fb23-4953-9b51-19241afbdc36.gif" data-target="animated-image.originalLink"><img align="top" src="https://user-images.githubusercontent.com/49988118/149845918-84b8c1d8-fb23-4953-9b51-19241afbdc36.gif" style="width: 27px; display: inline-block;" data-target="animated-image.originalImage"></a> Aplicações<br>
-   <img align="center"  src="https://camo.githubusercontent.com/b1720e127ee280daab63f84b508b29abe2540b02f5f57675765ad07da1315241/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3333333333333f7374796c653d666c6174266c6f676f3d48544d4c35">
+   <img align="center"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img align='center' src="https://camo.githubusercontent.com/c38a05ab57aea563f73ae6b4aad7f556faa734d4077a7b52a2081b41ce27da40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3333333333333f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236">
  <img align="center"  src="https://camo.githubusercontent.com/848defb760c0adff4362c04283f254f633ea8eff177c1640b209429d0e3d7627/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333333333f7374796c653d666c6174266c6f676f3d6a617661736372697074">
 
