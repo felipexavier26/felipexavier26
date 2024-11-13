@@ -23,8 +23,9 @@ Olá <a target="_blank"   rel="noopener noreferrer nofollow" href="https://user-
 <img align="center" width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img align="center" width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">
 <img align="center" width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> 
-<img align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/6c7084bb772f6a6bc1b9d4f2e3c4c5f15b056838/topics/laravel/laravel.png">
+<img align="center" width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+<img align="center" width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> 
+<img align="center" width="30px"  src="https://raw.githubusercontent.com/github/explore/6c7084bb772f6a6bc1b9d4f2e3c4c5f15b056838/topics/laravel/laravel.png">
 
   </div>  
   <br> 
