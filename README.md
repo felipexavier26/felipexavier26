@@ -8,8 +8,8 @@ Olá <a target="_blank"   rel="noopener noreferrer nofollow" href="https://user-
 
   
 <div style="display: inline_block"><br>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/49988118/149845918-84b8c1d8-fb23-4953-9b51-19241afbdc36.gif" data-target="animated-image.originalLink"><img align="top"  
-  src="https://user-images.githubusercontent.com/49988118/149845918-84b8c1d8-fb23-4953-9b51-19241afbdc36.gif" style="width: 27px; display: inline-block;" data-target="animated-image.originalImage"></a> Aplicações<br>
+     <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/49988118/149845918-84b8c1d8-fb23-4953-9b51-19241afbdc36.gif" data-target="animated-image.originalLink">
+     <img align="top" src="https://user-images.githubusercontent.com/49988118/149845918-84b8c1d8-fb23-4953-9b51-19241afbdc36.gif" style="width: 27px; display: inline-block;" data-target="animated-image.originalImage"></a> Aplicações<br>
     
   <img align="center" width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
   <img align='center' width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
@@ -21,43 +21,28 @@ Olá <a target="_blank"   rel="noopener noreferrer nofollow" href="https://user-
   <img align="center" width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
   <img align="center" width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> 
   <img align="center" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg">
-
-
-</div>  
-<br> 
-
-
-  
-
-
-  <div style="display: inline_block"><br>
-    Utilidades<br>
-   <img align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-   <img align='center' width="30px" style="background-color: white;   src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">  
-  </div> 
-
-  <br> 
-
-   <div style="display: inline_block"><br>
-DevOps<br>
-   <img align="center" width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-   <img align='center' width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">  
-  </div>  
-  <br> 
-
+</div>  <br> 
 
 <div style="display: inline_block"><br>
-Ferramentas de Desenvolvimento<br>
-   <img align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png">
-  </div>  
+    Utilidades<br>
+    <img align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+    <img align='center' width="30px" style="background-color: white;   src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">  
+</div>  <br> 
 
-  <br> 
+<div style="display: inline_block"><br>DevOps<br>
+  <img align="center" width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+  <img align='center' width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">  
+</div> <br> 
 
-  <div style="display: inline_block">
+<div style="display: inline_block"><br>
+  Ferramentas de Desenvolvimento<br>
+  <img align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png">
+</div>  <br> 
+
+<div style="display: inline_block">
   <a href="https://github.com/felipexavier26">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipexavier26&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipexavier26&layout=compact&langs_count=7&theme=dark"/>
-    
 </div><br>
 
 
