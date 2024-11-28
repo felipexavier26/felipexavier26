@@ -39,7 +39,7 @@ Me chamo <em><b>Felipe Xavier Braz</b></em>, sou <em><b>Desenvolvedor Web</b></e
 <div style="display: inline_block"><br>
   Ferramentas de Desenvolvimento<br>
   <img align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png">
-  <br> 
+  <br>  <br> 
 </div> 
 
 <div style="display: inline_block">
